@@ -1,6 +1,7 @@
 MERCEDES F1-Inspired DIY Steering Wheel
 This is a custom-built, Mercedes F1 steering wheel–inspired project, designed for sim racing and DIY enthusiasts.
 The model is heavily experimental and requires significant physical tweaking, sanding, and fitting. Expect to use tools like an electric grinder, file set, and precision drill to achieve proper fitment.
+Not for resale!!!
 This project combines 3D printing, electronics, and hydro dipping to create a realistic F1-style wheel with working electronics such as buttons, encoders, rotary switches, RGB LEDs, and displays.
 ⚠️ Note: This is not a beginner-friendly build. Some parts require patience, customization, and modification. Expect trial and error during assembly.
 
