@@ -31,26 +31,26 @@ SAMPLE OUTPUT PICTURES:
 
 
 Parts Used (w/ quantities):
-3.5 LCD tft ILI9488 x1
-Esp32 x1
-Arduino Pro Micro x1
-7x9cm perfboard x2 
-Tactile buttons x12
-8x2mm neodymium magnet x4
-Carbon fiber hydro dip film x1
-Hydro Dip Activator x 1
-Alcantara 1m x1
-Ec11 x6
-Gx16 aviator connector set x2
-1p12t rotary switch x3
-Micro switch x2
-Hall effect x1
-300x300x2mm aluminum x1
-Screw + standoff m3 set x1
-m3 20mm x14 (approx)
-Ws2812b 144 leds 1m x1 
-M1 screw and nut set x1
-Dupont wires
-Usb Hub x1
-3d print 
-3d Buttoncaps 
+-3.5 LCD tft ILI9488 x1
+-Esp32 x1
+-Arduino Pro Micro x1
+-7x9cm perfboard x2 
+-Tactile buttons x12
+-8x2mm neodymium magnet x4
+-Carbon fiber hydro dip film x1
+-Hydro Dip Activator x 1
+-Alcantara 1m x1
+-Ec11 x6
+-Gx16 aviator connector set x2
+-1p12t rotary switch x3
+-Micro switch x2
+-Hall effect x1
+-300x300x2mm aluminum x1
+-Screw + standoff m3 set x1
+-m3 20mm x14 (approx)
+-Ws2812b 144 leds 1m x1 
+-M1 screw and nut set x1
+-Dupont wires
+-Usb Hub x1
+-3d print 
+-3d Buttoncaps 
